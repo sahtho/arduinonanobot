@@ -1,0 +1,10 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+*.eep
+*.o
+*.d
+*.dSYM/
+build/
+libraries/
